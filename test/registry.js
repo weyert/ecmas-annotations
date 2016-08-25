@@ -1,7 +1,5 @@
 'use strict'
 
-return;
-
 const assert = require('assert')
 const Registry = require('../lib/registry')
 
