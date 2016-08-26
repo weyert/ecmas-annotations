@@ -7,8 +7,7 @@
   },
   "main": "./index.js",
   "scripts": {
-    "test": "eslint . && mocha --reporter spec test/",
-    "test-mocha": "mocha --reporter spec test/"
+    "test": "eslint . && mocha --reporter spec test/"
   },
   "repository": {
     "type": "git",
